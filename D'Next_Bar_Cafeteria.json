@@ -1,0 +1,107 @@
+{
+    "name": "D'Next Bar Cafeteria",
+    "sector": "privado",
+    "information": {
+        "website": "https://www.dnext-havana.com/",
+        "instagram": "https://www.instagram.com/dnext_bar_cafeteria/?hl=en",
+        "facebook": "",
+        "telephone_number": [
+            "+53 78605519"
+        ]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "512 e Monserrate y Vieja",
+        "coordinates": "23.1420157, -82.3545284"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 4.3,
+        "cant_g": 0,
+        "web": 0,
+        "cant_w": 0,
+        "tripadvisor": 0,
+        "cant_t": 0
+    },
+    "description": {
+        "type_of_restaurant": [
+            ""
+        ],
+        "specialty": [
+            ""
+        ],
+        "capacity": 0,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": true
+        },
+        "time_of_service": 0
+    },
+    "schedule": {
+        "24_hours": true,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        }
+    },
+    "logistics": {
+        "number_of_employees": 0,
+        "full_staff": true,
+        "average_salary": 0
+    },
+    "sustainability": {
+        "product": {
+            "import": 100,
+            "local": 0
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": true,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delivery_m": true,
+        "generator": true,
+        "wifi": true,
+        "parking": true,
+        "for_kids": true
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {}
+    }
+}

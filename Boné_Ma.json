@@ -1,0 +1,107 @@
+{
+    "name": "Boné Ma",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/bonema_restaurant/",
+        "facebook": "https://www.facebook.com/restaurantebonema/",
+        "telephone_number": [
+            "+53 7 8360567"
+        ]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Calle 21 #103 e/ L y M, Calle 21, La Habana, Cuba",
+        "coordinates": "23.1410284, -82.3836437"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 0,
+        "cant_g": 0,
+        "web": 0,
+        "cant_w": 0,
+        "tripadvisor": 0,
+        "cant_t": 0
+    },
+    "description": {
+        "type_of_restaurant": [
+            ""
+        ],
+        "specialty": [
+            ""
+        ],
+        "capacity": 0,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": true
+        },
+        "time_of_service": 0
+    },
+    "schedule": {
+        "24_hours": true,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        }
+    },
+    "logistics": {
+        "number_of_employees": 0,
+        "full_staff": true,
+        "average_salary": 0
+    },
+    "sustainability": {
+        "product": {
+            "import": 100,
+            "local": 0
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": true,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delivery_m": true,
+        "generator": true,
+        "wifi": true,
+        "parking": true,
+        "for_kids": true
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {}
+    }
+}
