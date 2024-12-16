@@ -1,0 +1,824 @@
+{
+    "name": "Toros y Tapas",
+    "sector": "privado",
+    "information":{
+        "website": "",
+        "instagram": "https://www.instagram.com/torostapashabana/",
+        "facebook": "https://www.facebook.com/torostapashavana/?locale=es_LA",
+        "telephone_number": ["72021548", "59729796"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": "Calle 6 e/ 3ra y 1ra. No. 124, Playa",
+        "coordinates": "23.128870429493183, -82.41660271357874"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 93,
+        "web": 3.5,
+        "cant_w": 164,
+        "tripadvisor": 4.5,
+        "cant_t": 158
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["española"],
+        "capacity": 80,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 10
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "number_of_employees": 30,
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": ["flamenco"],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_M": false,
+        "generator": true, 
+        "wifi": true,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": false,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "arroces",
+        "card":{
+            "breakfast": {},
+    "tapas": {},
+    "starters": {
+      "Tabla Mixta de Quesos Importados": {
+        "principal_ingridient": "queso",
+        "type": "tabla de quesos",
+        "price": 6500
+      },
+      "Carpaccio de Ternera": {
+        "principal_ingridient": "ternera",
+        "type": "carpaccio",
+        "price": 3900
+      },
+      "Ceviche tradicional con Panka Amarillo": {
+        "principal_ingridient": "pescado",
+        "type": "ceviche",
+        "price": 2600
+      },
+      "Tabla de Jamón Ibérico con Pan Tumaca": {
+        "principal_ingridient": "jamón ibérico",
+        "type": "tabla de jamón",
+        "price": 9750
+      },
+      "Charcutería Ibérica de la casa": {
+        "principal_ingridient": "jamón ibérico, salchichón y lomo",
+        "type": "charcutería",
+        "price": 9750
+      },
+      "Croquetas de la Casa": {
+        "principal_ingridient": "pollo o jamón",
+        "type": "croquetas",
+        "price": 2600
+      },
+      "Piquillos Rellenos de Morcillo de Ternera en Salsa Ligeramente Trufada": {
+        "principal_ingridient": "morcillo de ternera",
+        "type": "piquillos rellenos",
+        "price": 3250
+      },
+      "Callos a la Madrileña": {
+        "principal_ingridient": "ternera",
+        "type": "callos",
+        "price": 3250
+      },
+      "Gambas al Ajillo": {
+        "principal_ingridient": "gambas",
+        "type": "gambas",
+        "price": 2600
+      },
+      "Huevos Rotos con Jamón Serrano o Ibérico": {
+        "principal_ingridient": "huevo y jamón",
+        "type": "huevos rotos",
+        "price": 3250
+      },
+      "Pimientos del Piquillo Rellenos de Gambas y Chipirones en su Tinta": {
+        "principal_ingridient": "gambas y chipirones",
+        "type": "piquillos rellenos",
+        "price": 2600
+      },
+      "Manitas de Cerdo Estofada": {
+        "principal_ingridient": "cerdo",
+        "type": "manitas de cerdo",
+        "price": 2112.5
+      },
+      "Pan Rústico": {
+            "principal_ingridient": "pan",
+            "type": "pan",
+            "price": 650
+        },
+        "Pan Baguette con Alioli": {
+            "principal_ingridient": "pan, alioli",
+            "type": "pan",
+            "price": 650
+        },
+        "Pan Chapata con Alioli": {
+            "principal_ingridient": "pan, alioli",
+            "type": "pan",
+            "price": 650
+        },
+        "Coctel de Ostiones": {
+            "principal_ingridient": "ostiones",
+            "type": "cocktail",
+            "price": 2600
+        },
+        "Mini Tortilla Española": {
+            "principal_ingridient": "huevo, patata",
+            "type": "omelet",
+            "price": 2600
+        },
+        
+        "Anchoas de Santoña sobre Queso Scarmoza": {
+            "principal_ingridient": "anchoas, queso scarmoza",
+            "type": "aperitivo",
+            "price": 3900
+        },
+        "Burrata Ahumada sobre Concassé de Tomate Natural Marinado": {
+            "principal_ingridient": "burrata, tomate",
+            "type": "aperitivo",
+            "price": 5200
+        },
+        "Patatas Braviolis con Crujiente de Jamón Serrano": {
+            "principal_ingridient": "patata, jamón serrano",
+            "type": "aperitivo",
+            "price": 2600
+        },
+        "Tentáculo de Pulpo (Importado) a la Plancha": {
+            "principal_ingridient": "pulpo",
+            "type": "marisco",
+            "price": 2600
+        }
+    },
+    "main": {
+      "Arroz Meloso o Paella con Verduras": {
+        "principal_ingridient": "arroz y verduras",
+        "type": "arroz meloso",
+        "price": 3900
+      },
+      "Fideuá con Costillitas de Cerdo y Guisantes": {
+        "principal_ingridient": "fideos, cerdo y guisantes",
+        "type": "fideuá",
+        "price": 4550
+      },
+      "Paella Valenciana": {
+        "principal_ingridient": "pollo, conejo y verduras",
+        "type": "paella",
+        "price": 4550
+      },
+      "Paella Mixta": {
+        "principal_ingridient": "pollo, mariscos y verduras",
+        "type": "paella mixta",
+        "price": 4550
+      },
+      "Fideuá Marinera": {
+        "principal_ingridient": "fideos y mariscos",
+        "type": "fideuá",
+        "price": 4550
+      },
+      "Paella de Mariscos": {
+        "principal_ingridient": "mariscos y pescado",
+        "type": "paella de mariscos",
+        "price": 4550
+      },
+      "Arroz Negro con Calamar y Gambas": {
+        "principal_ingridient": "arroz, calamar y gambas",
+        "type": "arroz negro",
+        "price": 5200
+      },
+      "Arroz Seco Trufado de Pato con Setas": {
+        "principal_ingridient": "arroz, pato y setas",
+        "type": "arroz seco",
+        "price": 5200
+      },
+      "Arroz Meloso con Langosta y Gambas": {
+        "principal_ingridient": "arroz, langosta y gambas",
+        "type": "arroz meloso",
+        "price": 5200
+      },
+      "Falso Risotto de Frutos del Mar": {
+        "principal_ingridient": "mariscos",
+        "type": "risotto falso",
+        "price": 5200
+      },
+      "Pesca del Día": {
+            "principal_ingridient": "pescado",
+            "type": "pescado",
+            "price": 4875
+        },
+        "Zarzuela de Mariscos": {
+            "principal_ingridient": "mariscos",
+            "type": "marisco",
+            "price": 11375
+        },
+        "Parrillada de Mariscos": {
+            "principal_ingridient": "mariscos y pescado",
+            "type": "marisco",
+            "price": 9750
+        },
+        "Calamares a la Plancha": {
+            "principal_ingridient": "calamares",
+            "type": "marisco",
+            "price": 5200
+        },
+        "Solomillo de Ternera Importado": {
+            "principal_ingridient": "ternera",
+            "type": "carne",
+            "price": 9750
+        },
+        "Cochinillo al Estilo Segoviano": {
+            "principal_ingridient": "cochinillo",
+            "type": "carne",
+            "price": "S/M"
+        },
+        "Pierna o Paletilla de Cabrito Lechal al Horno con Patatas Panaderas": {
+            "principal_ingridient": "cabrito, patatas",
+            "type": "carne",
+            "price": 9750
+        }
+    },
+    "garnish": {
+      "Arroz Blanco": {
+        "principal_ingridient": "arroz",
+        "type": "arroz",
+        "price": 650
+      },
+      "Pure de Malanga con Crujiente de Jamón Serrano": {
+        "principal_ingridient": "malanga",
+        "type": "puré",
+        "price": 975
+      },
+      "Patatas Fritas": {
+        "principal_ingridient": "patatas",
+        "type": "fritas",
+        "price": 1950
+      }
+    },
+    "pastas": {},
+    "pizzas": {},
+    "additions": {},
+    "desserts": {
+      "Crema Catalana": {
+        "principal_ingridient": "leche y huevo",
+        "type": "crema",
+        "price": 1300
+      },
+      "Coulant de Chocolate con Helado": {
+        "principal_ingridient": "chocolate",
+        "type": "postre horneado",
+        "price": 1950
+      },
+      "Mini Tarta Vasca de Queso y Turron de Jijona": {
+        "principal_ingridient": "queso y turrón",
+        "type": "tarta",
+        "price": 1950
+      },
+      "Flan de la Casa": {
+        "principal_ingridient": "huevo y leche",
+        "type": "flan",
+        "price": 1300
+      },
+      "Infusión de Arándanos con Helado de Cereza Negra": {
+        "principal_ingridient": "arándanos y cereza",
+        "type": "infusión",
+        "price": 1950
+      }
+    },
+    "drinks": {
+      "Infusión/Te": {
+        "principal_ingridient": "té",
+        "type": "infusión",
+        "price": 487.5
+      },
+      "Café Express": {
+        "principal_ingridient": "café",
+        "type": "expreso",
+        "price": 487.5
+      },
+      "Capuchino": {
+        "principal_ingridient": "café",
+        "type": "capuchino",
+        "price": 812.5
+      },
+      "Café Irlandés": {
+        "principal_ingridient": "café y whisky",
+        "type": "café irlandés",
+        "price": 1137.5
+      },
+      "Café Cortado": {
+        "principal_ingridient": "café",
+        "type": "cortado",
+        "price": 650
+      },
+      "Café con Leche": {
+        "principal_ingridient": "café y leche",
+        "type": "café con leche",
+        "price": 650
+      },
+      "Café Carajillo": {
+        "principal_ingridient": "café y ron",
+        "type": "carajillo",
+        "price": 650
+      },
+      "Café Americano": {
+        "principal_ingridient": "café",
+        "type": "americano",
+        "price": 487.5
+      },
+      "Café Bombón": {
+        "principal_ingridient": "leche condensada y café",
+        "type": "bombón",
+        "price": 975
+      },
+      "Mirinda (Naranja)": {
+        "principal_ingridient": "naranja",
+        "type": "refresco",
+        "price": 650
+      },
+      "Kermato": {
+        "principal_ingridient": "tomate",
+        "type": "jugo",
+        "price": 975
+      },
+      "Redbull": {
+        "principal_ingridient": "energizante",
+        "type": "bebida energética",
+        "price": 812.5
+      },
+      "Zumos Naturales": {
+        "principal_ingridient": "fruta",
+        "type": "jugo natural",
+        "price": 650
+      },
+      "Limonada Frappe": {
+        "principal_ingridient": "limón",
+        "type": "limonada",
+        "price": 975
+      },
+      "Limonada Frappe con Hierba Buena": {
+        "principal_ingridient": "limón y hierba buena",
+        "type": "limonada frappe",
+        "price": 1137.5
+      },
+      "Zumo de Tomate (Mocito)": {
+        "principal_ingridient": "tomate",
+        "type": "zumo de tomate",
+        "price": 650
+      },
+      "Coca Cola": {
+        "principal_ingridient": "cola",
+        "type": "refresco",
+        "price": 975
+      },
+      "7up": {
+        "principal_ingridient": "limón",
+        "type": "refresco",
+        "price": 650
+      },
+      "Agua Natural Importada": {
+        "principal_ingridient": "agua",
+        "type": "agua natural",
+        "price": 812.5
+      },
+      "Agua Tónica MG": {
+        "principal_ingridient": "agua tónica",
+        "type": "agua tónica",
+        "price": 812.5
+      },
+      "Agua Gaseada Importada (Mondariz)": {
+        "principal_ingridient": "agua gaseada",
+        "type": "agua gaseada",
+        "price": 1300
+      },
+      "Agua Gaseada Importada (Tehuacan)": {
+        "principal_ingridient": "agua gaseada",
+        "type": "agua gaseada",
+        "price": 812.5
+      },
+      "Agua Gaseada Importada (Perrier)": {
+        "principal_ingridient": "agua gaseada",
+        "type": "agua gaseada",
+        "price": 975
+      },
+      "Cerveza Mahou Clásica de Botella": {
+        "principal_ingridient": "cerveza",
+        "type": "botella",
+        "price": 650
+      },
+      "Cerveza Estrella Galicia de Botella": {
+        "principal_ingridient": "cerveza",
+        "type": "botella",
+        "price": 812.5
+      },
+      "Cerveza Super Bock de Botella": {
+        "principal_ingridient": "cerveza",
+        "type": "botella",
+        "price": 812.5
+      },
+      "Cerveza Alhambra de Botella": {
+        "principal_ingridient": "cerveza",
+        "type": "botella",
+        "price": 975
+      },
+      "Cerveza Estrella Galicia (Grifo) 300 ml": {
+        "principal_ingridient": "cerveza",
+        "type": "grifo",
+        "price": 975
+      },
+      "Cerveza Estrella Galicia (Grifo) 500 ml": {
+        "principal_ingridient": "cerveza",
+        "type": "grifo",
+        "price": 1625
+      },
+      "Tiojito": {
+        "principal_ingridient": "ron, menta y azúcar",
+        "type": "cocktail",
+        "price": 1625
+      },
+      "Jarra de Sangria": {
+        "principal_ingridient": "vino blanco y frutas",
+        "type": "sangría",
+        "price": 5850
+      },
+      "Sangría Nevada (Con Vino Blanco)": {
+        "principal_ingridient": "vino blanco",
+        "type": "sangría",
+        "price": 1462.5
+      },
+      "Sangría de la Casa": {
+        "principal_ingridient": "vino",
+        "type": "sangría",
+        "price": 1462.5
+      },
+      "Piña Colada": {
+        "principal_ingridient": "piña y ron",
+        "type": "cocktail",
+        "price": 1950
+      },
+      "Daiquiri": {
+        "principal_ingridient": "ron y limón",
+        "type": "cocktail",
+        "price": 1137.5
+      },
+      "Chelada (Salt and Lemon)": {
+        "principal_ingridient": "cerveza, sal y limón",
+        "type": "cocktail",
+        "price": 325
+      },
+      "Michelada (English Sauce, Salt and Lemon Juice)": {
+        "principal_ingridient": "cerveza y salsa inglesa",
+        "type": "cocktail",
+        "price": 650
+      },
+      "Gin Tonic con Agua Tónica Importada": {
+        "principal_ingridient": "gin y tónica",
+        "type": "cocktail",
+        "price": 1787.5
+      },
+      "Long Island": {
+        "principal_ingridient": "ron, vodka, tequila, ginebra",
+        "type": "cocktail",
+        "price": 1950
+      },
+      "Caipiriña (Black Tear, Lemon and Sugar)": {
+        "principal_ingridient": "cachaça, limón y azúcar",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Caipirisima (White Rum, Lemon and Sugar)": {
+        "principal_ingridient": "ron blanco, limón y azúcar",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Caipiroska (Vodka, Lemon and Sugar)": {
+        "principal_ingridient": "vodka, limón y azúcar",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Mojito": {
+        "principal_ingridient": "ron, menta y azúcar",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Cuba Libre con Refresco Importado": {
+        "principal_ingridient": "ron y cola",
+        "type": "cocktail",
+        "price": 1462.5
+      },
+      "Cubata con Refresco Importado": {
+        "principal_ingridient": "ron y refresco",
+        "type": "cocktail",
+        "price": 1625
+      },
+      "Bloody Mary": {
+        "principal_ingridient": "vodka y tomate",
+        "type": "cocktail",
+        "price": 1462.5
+      },
+      "Cubanito": {
+        "principal_ingridient": "ron y refresco",
+        "type": "cocktail",
+        "price": 1137.5
+      },
+      "Mary Pickford": {
+        "principal_ingridient": "ron y jugo de piña",
+        "type": "cocktail",
+        "price": 1137.5
+      },
+      "Michelada Manolete (Homemade Sauce, English Sauce, Salt, Lemon Juice and Tajin)": {
+        "principal_ingridient": "cerveza, salsa y limón",
+        "type": "cocktail",
+        "price": 812.5
+      },
+      "Martini": {
+        "principal_ingridient": "gin y vermut",
+        "type": "cocktail",
+        "price": 1787.5
+      },
+      "Tinto de Verano (7up And Red Wine)": {
+        "principal_ingridient": "vino tinto y 7up",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Copa de Vino Blanco": {
+        "principal_ingridient": "vino blanco",
+        "type": "vino",
+        "price": 845
+      },
+      "Copa de Vino Tinto": {
+        "principal_ingridient": "vino tinto",
+        "type": "vino",
+        "price": 845
+      },
+      "Moscow Mule": {
+        "principal_ingridient": "vodka, jengibre y lima",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Negroni": {
+        "principal_ingridient": "gin, vermut y campari",
+        "type": "cocktail",
+        "price": 1625
+      },
+      "Screwdriver": {
+        "principal_ingridient": "vodka y jugo de naranja",
+        "type": "cocktail",
+        "price": 1300
+      },
+      "Toro Loco": {
+        "principal_ingridient": "tequila y jugo de limón",
+        "type": "cocktail",
+        "price": 1625
+      },
+      "Aperol Spritz": {
+        "principal_ingridient": "aperol, vino espumoso",
+        "type": "cocktail",
+        "price": 1625
+      },
+      "Margarita": {
+        "principal_ingridient": "tequila, limón y azúcar",
+        "type": "cocktail",
+        "price": 1950
+      },
+      "Torres 15": {
+            "principal_ingridient": "brandy",
+            "type": "brandy",
+            "price": 1300
+        },
+        "Licor de Café": {
+            "principal_ingridient": "licor de café",
+            "type": "licor",
+            "price": 975
+        },
+        "Ron Escarchado": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 975
+        },
+        "Tostada Escachado": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 975
+        },
+        "Pazo Pondal Licor de Hierbas de Galicia": {
+            "principal_ingridient": "licor de hierbas",
+            "type": "licor",
+            "price": 1137.5
+        },
+        "Pazo Pondal Orujo De Galicia (Blanco)": {
+            "principal_ingridient": "orujo",
+            "type": "licor",
+            "price": 1300
+        },
+        "Crema Ruavieja": {
+            "principal_ingridient": "crema",
+            "type": "licor",
+            "price": 1137.5
+        },
+        "Cointreau": {
+            "principal_ingridient": "licor de naranja",
+            "type": "licor",
+            "price": 1300
+        },
+        "Sambuca Molinari": {
+            "principal_ingridient": "sambuca",
+            "type": "licor",
+            "price": 1137.5
+        }, 
+        "Master's": {
+            "principal_ingridient": "ginebra",
+            "type": "ginebra",
+            "price": 975
+        },
+        "Bulldog": {
+            "principal_ingridient": "ginebra",
+            "type": "ginebra",
+            "price": 2600
+        },
+        "Hendrick": {
+            "principal_ingridient": "ginebra",
+            "type": "ginebra",
+            "price": 2275
+        },
+        "Tanqueray Ten": {
+            "principal_ingridient": "ginebra",
+            "type": "ginebra",
+            "price": 1950
+        },
+        "London Dry Gin No3": {
+            "principal_ingridient": "ginebra",
+            "type": "ginebra",
+            "price": 2600
+        }, 
+        "1800 Añejo": {
+            "principal_ingridient": "tequila",
+            "type": "tequila",
+            "price": 3900
+        },
+        "Don Julio Reposado": {
+            "principal_ingridient": "tequila",
+            "type": "tequila",
+            "price": 3250
+        },
+        "Don Julio 70": {
+            "principal_ingridient": "tequila",
+            "type": "tequila",
+            "price": 4875
+        },
+        "Havana Club Añejo Años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 812.5
+        },
+        "Havana Club 15 años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 6500
+        },
+        "Ron Zacapa 23": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 4875
+        },
+        "Santiago 12 Años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 2600
+        },
+        "Santiago 8 Años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 1137.5
+        },
+        "Santiago 11 Años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 1950
+        },
+        "Santisima Trinidad 7 Años": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 975
+        },
+        "Selección de Maestros": {
+            "principal_ingridient": "ron",
+            "type": "ron",
+            "price": 2600
+        },
+        "J.W. Gold Label 18 Años": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 4875
+        },
+        "Gentelman Jack": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 1950
+        },
+        "Jack Daniels No. 7": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 1625
+        },
+        "Singleton": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 6500
+        },
+        "Wood Ford (Bourbon)": {
+            "principal_ingridient": "bourbon",
+            "type": "whisky",
+            "price": 5850
+        },
+        "Glenlivet Founder": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 1950
+        },
+        "Buchanan's 12 Años Deluxe": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 2112.5
+        },
+        "J.W. Black Label": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 1950
+        },
+        "J.W. Double Black": {
+            "principal_ingridient": "whisky",
+            "type": "whisky",
+            "price": 2600
+        },
+        "Stolichnaya": {
+            "principal_ingridient": "vodka",
+            "type": "vodka",
+            "price": 1137.5
+        },
+        "Prince Igor": {
+            "principal_ingridient": "vodka",
+            "type": "vodka",
+            "price": 975
+        }
+    }
+        }
+    }
+}
