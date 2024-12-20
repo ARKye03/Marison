@@ -1,0 +1,881 @@
+{
+    "name": "La Mimosa",
+    "sector": "privado",
+    "information": {
+        "website": "https://www.supermarket23.com/es/categoria/1633",
+        "instagram": "https://www.instagram.com/restaurantemimosa",
+        "facebook": "Restaurante Pizzeria La Mimosa",
+        "telephone_number": [
+            "78671790",
+            "59705636"
+        ]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": "Salud 317 e/ Gervasio y Escobar",
+        "coordinates": "23.1334871, -82.3706463"
+    },
+    "valoration": {
+        "quality": "excelent",
+        "google": 4.4,
+        "cant_g": 234,
+        "web": 4.1,
+        "cant_w": 206,
+        "tripadvisor": 4.0,
+        "cant_t": 202
+    },
+    "description": {
+        "type_of_restaurant": [
+            "familiar",
+            "cubano"
+        ],
+        "specialty": [
+            "pizza"
+        ],
+        "capacity": 30,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": true
+        },
+        "time_of_service": 0
+    },
+    "schedule": {
+        "24_hours": true,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "number_of_employees": 11,
+        "full_staff": true,
+        "average_salary": 5000
+    },
+    "sustainability": {
+        "product": {
+            "import": 100,
+            "local": 0
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": true,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delivery_m": true,
+        "generator": true,
+        "wifi": true,
+        "parking": true,
+        "for_kids": true
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "Pizza La Mimosa",
+        "card": {
+            "rums": {
+                "havana_club_3_anos": {
+                    "price": 235.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_anejo_blanco": {
+                    "price": 235.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_anejo_especial": {
+                    "price": 256.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_reserva": {
+                    "price": 531.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_7_anos": {
+                    "price": 489.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_selec_maestros": {
+                    "price": 1132.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_union": {
+                    "price": 245.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "havana_club_tributo": {
+                    "price": 245.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                },
+                "aguardiente_santero": {
+                    "price": 245.0,
+                    "type": "ron",
+                    "principal_ingredient": "ron"
+                }
+            },
+            "creams_and_licors": {
+                "amaretti_disaronno": {
+                    "price": 565.0,
+                    "type": "cream",
+                    "principal_ingredient": "cream"
+                },
+                "frangelico": {
+                    "price": 1018.0,
+                    "type": "cream",
+                    "principal_ingredient": "cream"
+                },
+                "baileys": {
+                    "price": 565.0,
+                    "type": "cream",
+                    "principal_ingredient": "cream"
+                },
+                "sambuca": {
+                    "price": 565.0,
+                    "type": "vodka",
+                    "principal_ingredient": "alcohol"
+                },
+                "anis_del_mono_dulce": {
+                    "price": 519.0,
+                    "type": "vodka",
+                    "principal_ingredient": "alcohol"
+                },
+                "pernod": {
+                    "price": 387.0,
+                    "type": "vodka",
+                    "principal_ingredient": "alcohol"
+                },
+                "ricard": {
+                    "price": 387.0,
+                    "type": "vodka",
+                    "principal_ingredient": "alcohol"
+                },
+                "campari": {
+                    "price": 165.0,
+                    "type": "vodka",
+                    "principal_ingredient": "alcohol"
+                },
+                "licores_cubanos": {
+                    "price": 165.0,
+                    "type": "licor",
+                    "principal_ingredient": "hierbas"
+                }
+            },
+            "whiskys": {
+                "chivas_regal": {
+                    "price": 900.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "jhonnie_walker_black_level": {
+                    "price": 900.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "jhonnie_walker_red_level": {
+                    "price": 900.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "jhonnie_walker_blue_level": {
+                    "price": 1000.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "j_and_b": {
+                    "price": 1000.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "havana_special": {
+                    "price": 1200.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "cuba_libre": {
+                    "price": 750.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "whisky_single_malt": {
+                    "price": 750.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "jameson": {
+                    "price": 750.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "jack_daniels": {
+                    "price": 1200.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                },
+                "ballantines": {
+                    "price": 650.0,
+                    "type": "whisky",
+                    "principal_ingredient": "whisky"
+                }
+            },
+            "antipastos": {
+                "croquetas_de_jamon": {
+                    "price": 1280.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "foccacia_al_oregano": {
+                    "price": 994.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "brusqueta_tradicional": {
+                    "price": 1337.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "galletas_caseras_con_pate_de_jamon": {
+                    "price": 1337.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "ensalada_caprese": {
+                    "price": 1881.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "menestra_de_verduras": {
+                    "price": 1881.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "coctel_de_camarones": {
+                    "price": 2082.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "variedad_de_quesos_c_fruitos_secos": {
+                    "price": 2164.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "entremes_de_jamon_serrano": {
+                    "price": 3057.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "ensalada_defrutas_frescas": {
+                    "price": 1463.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "bastones_de_queso_frito_sobre_salsa": {
+                    "price": 2168.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "antipasto_mimosa": {
+                    "price": 2361.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "papas_fritas_al_aroma_de_ajo": {
+                    "price": 1096.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "ensalada_fria_italiana": {
+                    "price": 659.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "cremas": {
+                "crema_de_queso": {
+                    "price": 1197.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_virginia": {
+                    "price": 1197.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_aurora": {
+                    "price": 1197.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_de_hongos": {
+                    "price": 1850.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_de_queso_azul": {
+                    "price": 2107.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_de_vegetales": {
+                    "price": 1136.0,
+                    "type": "crema",
+                    "principal_ingredient": "vegetales"
+                },
+                "crema_de_camaron": {
+                    "price": 1785.0,
+                    "type": "crema",
+                    "principal_ingredient": "camaron"
+                },
+                "crema_de_mariscos": {
+                    "price": 2083.0,
+                    "type": "crema",
+                    "principal_ingredient": "mariscos"
+                },
+                "fondue_de_queso": {
+                    "price": 2191.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "sopa_de_pollo_y_apio": {
+                    "price": 1220.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "pastas_frescas": {
+                "raviolli_relleno_con_jamon": {
+                    "price": 1906.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "raviolli_rellenoc_mouse_de_camaron": {
+                    "price": 2084.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "noquis_al_queso_azul": {
+                    "price": 2164.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_azul"
+                },
+                "noquis_al_pomodoro_y_queso": {
+                    "price": 2209.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso"
+                },
+                "parmesano": {
+                    "price": 2032.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "fetuccini_alfredo": {
+                    "price": 1895.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "lenguini_de_mare": {
+                    "price": 2209.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pastas_rellenas": {
+                    "price": 2150.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                }
+            },
+            "pastas_rellenas": {
+                "lasagna_a_la_bolognesa": {
+                    "price": 2150.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "lasagna_rellena_con_jamon": {
+                    "price": 2150.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "canelones_rellenos_con_camarones": {
+                    "price": 2346.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "canelones_de_jamon": {
+                    "price": 2345.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "canelones_rellenos_mixtos": {
+                    "price": 2091.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "spaghetti/fusilli/macarrones": {
+                "salsa_mar_y_tierra": {
+                    "price": 3013.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_al_pesto": {
+                    "price": 1638.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_al_pomodoro": {
+                    "price": 1513.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_a_la_carbonara": {
+                    "price": 2171.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_arrabiata": {
+                    "price": 1477.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_a_la_marinera": {
+                    "price": 2987.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_al_burro": {
+                    "price": 1638.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_a_la_bolognesa": {
+                    "price": 2128.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_a_la_napolitana": {
+                    "price": 999.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_alfredo": {
+                    "price": 1836.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_de_vegetales": {
+                    "price": 1423.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsade_hongos": {
+                    "price": 1839.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_panna": {
+                    "price": 2091.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_con_filete_de_res_a_su_gusto": {
+                    "price": 2168.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_al_aglio": {
+                    "price": 1425.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "salsa_con_jamon": {
+                    "price": 1836.0,
+                    "type": "pasta",
+                    "principal_ingredient": "jamon"
+                },
+                "nero_di_mare": {
+                    "price": 3328.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "macarrones_mimosa_4_quesos": {
+                    "price": 2617.0,
+                    "type": "pasta",
+                    "principal_ingredient": "queso_parmesano"
+                }
+            },
+            "agregos": {
+                "queso_parmesano": {
+                    "price": 489.0,
+                    "type": "agrego",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "queso_gouda": {
+                    "price": 489.0,
+                    "type": "agrego",
+                    "principal_ingredient": "queso_gouda"
+                },
+                "embutidos": {
+                    "price": 345.0,
+                    "type": "agrego",
+                    "principal_ingredient": "embutidos"
+                },
+                "aceitunas": {
+                    "price": 438.0,
+                    "type": "agrego",
+                    "principal_ingredient": "aceitunas"
+                },
+                "champiñones": {
+                    "price": 591.0,
+                    "type": "agrego",
+                    "principal_ingredient": "champiñones"
+                },
+                "cebolla": {
+                    "price": 269.0,
+                    "type": "agrego",
+                    "principal_ingredient": "cebolla"
+                },
+                "pimientos": {
+                    "price": 269.0,
+                    "type": "agrego",
+                    "principal_ingredient": "pimientos"
+                },
+                "mariscos": {
+                    "price": 628.0,
+                    "type": "agrego",
+                    "principal_ingredient": "mariscos"
+                },
+                "bacon": {
+                    "price": 408.0,
+                    "type": "agrego",
+                    "principal_ingredient": "bacon"
+                }
+            },
+            "platos_principales": {
+                "rigatoni_a_las_3_carne": {
+                    "price": 2179.0,
+                    "type": "plato",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "capricho_mimosa": {
+                    "price": 2080.0,
+                    "type": "plato",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "camarones_al_viecco_rone": {
+                    "price": 2985.0,
+                    "type": "plato",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "camarones_al_aroma_de_porcini_y_tartufo": {
+                    "price": 2985.0,
+                    "type": "plato",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "lomitos_de_pescado_al_homo_en_crema": {
+                    "price": 2787.0,
+                    "type": "plato",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_al_oliva_y_pomodoro": {
+                    "price": 2787.0,
+                    "type": "plato",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_grille_en_salsa_parmesana": {
+                    "price": 2787.0,
+                    "type": "plato",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_res_a_la_amatriciciana": {
+                    "price": 2417.0,
+                    "type": "plato",
+                    "principal_ingredient": "res"
+                },
+                "escalope_de_cerdo_grille": {
+                    "price": 2417.0,
+                    "type": "plato",
+                    "principal_ingredient": "cerdo"
+                },
+                "escalopines_de_cerdo_a_la_valdostana": {
+                    "price": 2987.0,
+                    "type": "plato",
+                    "principal_ingredient": "cerdo"
+                },
+                "pechuga_de_pollo_a_la_plancha": {
+                    "price": 2585.0,
+                    "type": "plato",
+                    "principal_ingredient": "pollo"
+                },
+                "caldereta_genovesa": {
+                    "price": 3981.0,
+                    "type": "plato",
+                    "principal_ingredient": "pollo"
+                },
+                "grillada_mixta_mimosa": {
+                    "price": 4164.0,
+                    "type": "plato",
+                    "principal_ingredient": "queso_parmesano"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 999.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_margarita": {
+                    "price": 1513.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_de_jamon": {
+                    "price": 1566.0,
+                    "type": "pizza",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_hawaiana": {
+                    "price": 1549.0,
+                    "type": "pizza",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_de_bacon": {
+                    "price": 1975.0,
+                    "type": "pizza",
+                    "principal_ingredient": "bacon"
+                },
+                "pizza_de_chorizo_jamon_y_salame": {
+                    "price": 2240.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "izza_de_camarones": {
+                    "price": 2405.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_de_pimientos": {
+                    "price": 2023.0,
+                    "type": "pizza",
+                    "principal_ingredient": "pimientos"
+                },
+                "pizza_de_cebolla": {
+                    "price": 1620.0,
+                    "type": "pizza",
+                    "principal_ingredient": "cebolla"
+                },
+                "pizza_de_filete_de_res": {
+                    "price": 2875.0,
+                    "type": "pizza",
+                    "principal_ingredient": "res"
+                },
+                "pizza_de_champiñones": {
+                    "price": 2062.0,
+                    "type": "pizza",
+                    "principal_ingredient": "champiñones"
+                },
+                "pizza_de_vegetales": {
+                    "price": 2013.0,
+                    "type": "pizza",
+                    "principal_ingredient": "vegetales"
+                },
+                "pizza_de_atun": {
+                    "price": 2472.0,
+                    "type": "pizza",
+                    "principal_ingredient": "atun"
+                },
+                "pizza_de_bacon_y_camarones": {
+                    "price": 2179.0,
+                    "type": "pizza",
+                    "principal_ingredient": "bacon"
+                },
+                "pizza_al_pesto": {
+                    "price": 1910.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_de_jamon_y_camarones": {
+                    "price": 2376.0,
+                    "type": "pizza",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_marinera": {
+                    "price": 2812.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_de_aceitunas_verdes_deshuesadas": {
+                    "price": 2179.0,
+                    "type": "pizza",
+                    "principal_ingredient": "aceitunas"
+                },
+                "pizza_mimosa": {
+                    "price": 2560.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_a_caballo": {
+                    "price": 2238.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_gran_jumbo": {
+                    "price": 3344.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_4_quesos": {
+                    "price": 2693.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_strombolis_quesos_ahumados": {
+                    "price": 2860.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_calzone": {
+                    "price": 2575.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_alla_toscana": {
+                    "price": 2677.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_4_jamones": {
+                    "price": 2910.0,
+                    "type": "pizza",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "postres": {
+                "flan_de_caramelo": {
+                    "price": 540.0,
+                    "type": "postre",
+                    "principal_ingredient": "caramelo"
+                },
+                "ensalada_de_helados_mimosa": {
+                    "price": 734.0,
+                    "type": "postre",
+                    "principal_ingredient": "helado"
+                },
+                "cheese_cake": {
+                    "price": 761.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "copa_de_helado_tradicional": {
+                    "price": 550.0,
+                    "type": "postre",
+                    "principal_ingredient": "helado"
+                },
+                "copa_lolita": {
+                    "price": 709.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "torta_helada": {
+                    "price": 1083.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "suero_de_helado": {
+                    "price": 1530.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "torta_bombon": {
+                    "price": 799.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "tarta_de_merengue_y_crema": {
+                    "price": 1530.0,
+                    "type": "postre",
+                    "principal_ingredient": "crema"
+                }
+            },
+            "sugerencias": {
+                "crema_mixta": {
+                    "price": 1435.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "crema"
+                },
+                "pizza_de_chorizo": {
+                    "price": 2069.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_de_blanqueta": {
+                    "price": 2069.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "pizza_3_chorizos": {
+                    "price": 3505.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "picadillo_a_la_criolla": {
+                    "price": 1499.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "filete_migon_a_la_salsa_española_con_puré_de_papas": {
+                    "price": 4999.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "guisada": {
+                    "price": 2246.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                },
+                "servicio_michelada": {
+                    "price": 178.0,
+                    "type": "sugerencia",
+                    "principal_ingredient": "queso_parmesano"
+                }
+            }
+        }
+    }
+}
