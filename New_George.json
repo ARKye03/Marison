@@ -1,0 +1,773 @@
+{
+    "name": "New_Georges",
+    "sector": "privado",
+    "information": {
+        "website": "https://www.facebook.com/newgeorgerestaurant/",
+        "instagram": null,
+        "facebook": "https://www.facebook.com/newgeorgerestaurant/",
+        "telephone_number": [
+            "+53 7 8352817"
+        ]
+    },
+    "location": {
+        "municipality": "Plaza_de_la_Revolucion",
+        "direction": "Calle 3ra # 253 entre A y B Vedado",
+        "coordinates": "23.1408928, -82.3999596"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 96,
+        "web": 4.5,
+        "cant_w": 125,
+        "tripadvisor": 4.5,
+        "cant_t": 212
+    },
+    "description": {
+        "type_of_restaurant": [
+            "cubano",
+            "familiar",
+            "caribbean"
+        ],
+        "specialty": [
+            "Cocteles"
+        ],
+        "capacity": 34,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": true
+        },
+        "time_of_service": 2
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "23:30",
+            "tue": "23:30",
+            "wed": "23:30",
+            "thu": "23:30",
+            "fri": "23:30",
+            "sat": "23:30",
+            "sun": "23:30"
+        }
+    },
+    "logistics": {
+        "number_of_employees": 6,
+        "full_staff": true,
+        "average_salary": 5000
+    },
+    "sustainability": {
+        "product": {
+            "import": 100,
+            "local": 0
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delivery_m": true,
+        "generator": true,
+        "wifi": true,
+        "parking": false,
+        "for_kids": true
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "cerdo_asado",
+        "card": {
+            "breakfast": {
+                "variado_bxb": {
+                    "price": 500,
+                    "type": "BxB",
+                    "principal_ingredient": ""
+                },
+                "tostadas_de_pan_con_mantequilla": {
+                    "price": 500,
+                    "type": "BxB",
+                    "principal_ingredient": ""
+                },
+                "super_new_georges": {
+                    "price": 1400,
+                    "type": "bread",
+                    "principal_ingredient": "Jamón Pierna, Jamón Viking, queso y chorizo"
+                },
+                "super_sandwich": {
+                    "price": 1300,
+                    "type": "bread",
+                    "principal_ingredient": "Jamón y queso/Cheese & Ham"
+                },
+                "sandwich_cubano": {
+                    "price": 1500,
+                    "type": "bread",
+                    "principal_ingredient": "Pierna de Cerdo asada, jamón y queso/Roasted pork, ham, Spanish sausage and cheese"
+                },
+                "sandwich_de_pepito": {
+                    "price": 2500,
+                    "type": "bread",
+                    "principal_ingredient": "Solomillo de Res, mayonesa y cebolla/Beef sirloin, mayonnaise and onion"
+                },
+                "baguette_de_pollo": {
+                    "price": 1300,
+                    "type": "bread",
+                    "principal_ingredient": "Pollo/Chicken"
+                },
+                "baguette_de_atun": {
+                    "price": 1400,
+                    "type": "bread",
+                    "principal_ingredient": "Atún/Tuna"
+                },
+                "tortilla_de_cebolla": {
+                    "price": 800,
+                    "type": "omelet",
+                    "principal_ingredient": "Cebolla/Onions"
+                },
+                "tortilla_de_chorizo": {
+                    "price": 800,
+                    "type": "omelet",
+                    "principal_ingredient": "Chorizo/Smoked Pork"
+                },
+                "tortilla_de_jamon": {
+                    "price": 800,
+                    "type": "omelet",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "tortilla_de_queso": {
+                    "price": 800,
+                    "type": "omelet",
+                    "principal_ingredient": "Queso/Cheese"
+                },
+                "tortilla_espanola": {
+                    "price": 1050,
+                    "type": "omelet",
+                    "principal_ingredient": "Española/Spanish"
+                },
+                "huevos_fritos_con_jamon": {
+                    "price": 800,
+                    "type": "eggs",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "huevos_fritos_naturales": {
+                    "price": 750,
+                    "type": "eggs",
+                    "principal_ingredient": "Naturales/Plain Fried"
+                },
+                "huevos_fritos_con_chorizo": {
+                    "price": 800,
+                    "type": "eggs",
+                    "principal_ingredient": "Chorizo/Smoked Pork Sausage"
+                },
+                "huevos_a_la_americana": {
+                    "price": 850,
+                    "type": "eggs",
+                    "principal_ingredient": "Bacón/Bacon"
+                },
+                "huevos_a_lo_maricel": {
+                    "price": 800,
+                    "type": "eggs",
+                    "principal_ingredient": "Huevos hervidos con la yema mezclada con kétchup, cebolla y mayonesa/Boiled eggs, egg yolk mixed with ketchup, onions and mayonnaise"
+                }
+            },
+            "starters": {
+                "aceitunas": {
+                    "price": 1000,
+                    "type": "appetizer",
+                    "principal_ingredient": "Aceitunas/Olives"
+                },
+                "jamon_y_queso": {
+                    "price": 700,
+                    "type": "appetizer",
+                    "principal_ingredient": "Jamón y Queso/Ham and Cheese"
+                },
+                "jamon_serrano": {
+                    "price": 2500,
+                    "type": "appetizer",
+                    "principal_ingredient": "Jamón Serrano/Serrano Ham"
+                },
+                "entremes_mixto": {
+                    "price": 4000,
+                    "type": "appetizer",
+                    "principal_ingredient": "Entremes Mixto"
+                },
+                "entremes_mixto_especial": {
+                    "price": 4500,
+                    "type": "appetizer",
+                    "principal_ingredient": "Entremes Mixto Especial"
+                },
+                "de_pescado": {
+                    "price": 1300,
+                    "type": "appetizer",
+                    "principal_ingredient": "Pescado/Fish"
+                },
+                "de_camarones": {
+                    "price": 1400,
+                    "type": "appetizer",
+                    "principal_ingredient": "Camarones/Shrimp"
+                },
+                "de_langosta": {
+                    "price": 1500,
+                    "type": "appetizer",
+                    "principal_ingredient": "Langosta/Lobster"
+                },
+                "ceviche": {
+                    "price": 1270,
+                    "type": "appetizer",
+                    "principal_ingredient": "Ceviche"
+                }
+            },
+            "salads": {
+                "new_georges": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Vegetales mixtos de estación, jamón serrano crujiente, dados de quesos, costrones de pan, frutos secos/Mixed seasonal vegetables, crispy serrano ham, cheese cubes, croutons and dried fruit"
+                },
+                "simple_de_estacion": {
+                    "price": 700,
+                    "type": "salad",
+                    "principal_ingredient": "Vegetales de estación/Seasonal vegetables"
+                },
+                "mixta_de_estacion": {
+                    "price": 700,
+                    "type": "salad",
+                    "principal_ingredient": "Vegetales mixtos de estación/Mixed seasonal vegetables"
+                },
+                "de_pollo": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Pollo/Chicken"
+                },
+                "de_jamon": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "mediterranea": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "4 tipos de vegetales, pollo, jamón, queso, salsa y vinagreta/4 sorts of vegetables, chicken, ham, cheese and vinegar sauce"
+                },
+                "de_la_casa": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Pollo, piña, cebolla, pimiento, lechuga y salsa tártara/Chicken, eggs, pineapple, onions, pepper, lettuce, peanuts and tartar's sauce"
+                },
+                "marinera": {
+                    "price": 2500,
+                    "type": "salad",
+                    "principal_ingredient": "Mariscos, salsa alioli, 3 tipos de vegetales, queso parmesano y costrones de pan/Seafood, alioli sauce, 3 sorts of vegetables, parmesan cheese and crusty bread"
+                },
+                "caprese": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Tomate, queso, albahaca/Tomato, cheese, basil"
+                },
+                "cesar": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Lechuga, salsa alioli, bacón, queso parmesano y costrones de pan/Lettuce, alioli sauce, bacon, parmesan cheese and croutons"
+                },
+                "atun": {
+                    "price": 1500,
+                    "type": "salad",
+                    "principal_ingredient": "Atún/Tuna"
+                },
+                "vegetales_con_atun": {
+                    "price": 1400,
+                    "type": "salad",
+                    "principal_ingredient": "Vegetales y atún/Vegetables and tuna"
+                }
+            },
+            "spaghettis": {
+                "new_georges": {
+                    "price": 1300,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Jamón Pierna, Jamón Viking, queso y cebolla/Ham, Viking ham, cheese and onion"
+                },
+                "con_chorizo": {
+                    "price": 1200,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Chorizo/Spanish Sausage"
+                },
+                "a_la_bolognesa": {
+                    "price": 2000,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Bolognesa/Bolognese"
+                },
+                "de_camarones": {
+                    "price": 1800,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Camarones/Shrimps"
+                },
+                "napolitanos": {
+                    "price": 1100,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Napolitan/Napolitan"
+                },
+                "arrabiata": {
+                    "price": 1200,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Arrabiata/Arrabiata"
+                },
+                "con_jamon": {
+                    "price": 1200,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "a_la_carbonara": {
+                    "price": 1600,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Carbonara/Carbonara"
+                },
+                "alfredo": {
+                    "price": 1700,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Alfredo/Alfredo"
+                },
+                "amatriciana": {
+                    "price": 1200,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Amatriciana/Amatriciana"
+                },
+                "al_pesto": {
+                    "price": 1600,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Pesto/Pesto"
+                },
+                "con_jamon_y_chorizo": {
+                    "price": 1500,
+                    "type": "spaghetti",
+                    "principal_ingredient": "Jamón y Chorizo/Ham and Spanish Sausage"
+                }
+            },
+            "penne": {
+                "new_georges": {
+                    "price": 1400,
+                    "type": "penne",
+                    "principal_ingredient": "Jamón Pierna, Jamón Viking, queso y cebolla/Ham, Viking ham, cheese and onion"
+                },
+                "con_salsa_blanca_de_camarones": {
+                    "price": 1800,
+                    "type": "penne",
+                    "principal_ingredient": "Salsa Blanca de Camarones/White sauce with prawns"
+                },
+                "con_salsa_de_salmon": {
+                    "price": 1800,
+                    "type": "penne",
+                    "principal_ingredient": "Salsa de Salmón/Sauce with Salmon"
+                },
+                "con_jamon": {
+                    "price": 1300,
+                    "type": "penne",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "con_queso_parmesano": {
+                    "price": 1600,
+                    "type": "penne",
+                    "principal_ingredient": "Queso Parmesano/Parmesan Cheese"
+                }
+            },
+            "fusilli": {
+                "con_salsa_de_tomates_naturales_y_albahaca": {
+                    "price": 1300,
+                    "type": "penne",
+                    "principal_ingredient": "Salsa de tomates naturales y albahaca/Sauce with natural tomatoes and basil"
+                },
+                "con_3_salsas": {
+                    "price": 1500,
+                    "type": "penne",
+                    "principal_ingredient": "3 salsas/Three sauces"
+                },
+                "con_queso_azul": {
+                    "price": 1500,
+                    "type": "penne",
+                    "principal_ingredient": "Queso Azul/Blue cheese"
+                }
+            },
+            "lasagna": {
+                "de_vegetales": {
+                    "price": 1200,
+                    "type": "lasagna",
+                    "principal_ingredient": "Vegetales/Vegetables"
+                },
+                "a_la_bolognesa": {
+                    "price": 2200,
+                    "type": "lasagna",
+                    "principal_ingredient": "Bolognesa/Bolognese"
+                },
+                "de_jamon": {
+                    "price": 1600,
+                    "type": "lasagna",
+                    "principal_ingredient": "Jamón/Ham"
+                }
+            },
+            "cannelloni": {
+                "a_la_bolognesa": {
+                    "price": 1800,
+                    "type": "cannelloni",
+                    "principal_ingredient": "Bolognesa/Bolognese"
+                },
+                "con_jamon": {
+                    "price": 1500,
+                    "type": "cannelloni",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "de_vegetales": {
+                    "price": 1200,
+                    "type": "cannelloni",
+                    "principal_ingredient": "Vegetales/Vegetables"
+                }
+            },
+            "pizzas": {
+                "napolitana": {
+                    "price": 1000,
+                    "type": "pizza",
+                    "principal_ingredient": "Napolitana/Napolitan"
+                },
+                "de_cebolla": {
+                    "price": 1150,
+                    "type": "pizza",
+                    "principal_ingredient": "Cebolla/Onions"
+                },
+                "de_camarones": {
+                    "price": 1700,
+                    "type": "pizza",
+                    "principal_ingredient": "Camarones/Shrimps"
+                },
+                "de_langosta": {
+                    "price": 1800,
+                    "type": "pizza",
+                    "principal_ingredient": "Langosta/Lobster"
+                },
+                "de_atun": {
+                    "price": 1300,
+                    "type": "pizza",
+                    "principal_ingredient": "Atún/Tuna"
+                },
+                "de_jamon": {
+                    "price": 1150,
+                    "type": "pizza",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "de_aji": {
+                    "price": 1100,
+                    "type": "pizza",
+                    "principal_ingredient": "Aji/Chili"
+                },
+                "de_aceitunas": {
+                    "price": 1200,
+                    "type": "pizza",
+                    "principal_ingredient": "Aceitunas/Olives"
+                },
+                "de_vegetales": {
+                    "price": 1200,
+                    "type": "pizza",
+                    "principal_ingredient": "Vegetales/Vegetables"
+                },
+                "de_chorizo": {
+                    "price": 1150,
+                    "type": "pizza",
+                    "principal_ingredient": "Chorizo/Smoked-Pork Sausage"
+                },
+                "hawaiana": {
+                    "price": 1200,
+                    "type": "pizza",
+                    "principal_ingredient": "Hawaiana/Hawaiian"
+                },
+                "combinada": {
+                    "price": 1500,
+                    "type": "pizza",
+                    "principal_ingredient": "Combinada/Mixed"
+                }
+            },
+            "pizzas_familiar": {
+                "new_georges": {
+                    "price": 1800,
+                    "type": "pizza",
+                    "principal_ingredient": "New George's/New George's"
+                },
+                "de_chorizo": {
+                    "price": 1500,
+                    "type": "pizza",
+                    "principal_ingredient": "Chorizo/Smoked-Pork Sausage"
+                },
+                "de_queso": {
+                    "price": 1300,
+                    "type": "pizza",
+                    "principal_ingredient": "Queso/Cheese"
+                },
+                "de_cebolla": {
+                    "price": 1400,
+                    "type": "pizza",
+                    "principal_ingredient": "Cebolla/Onions"
+                },
+                "de_camarones": {
+                    "price": 1800,
+                    "type": "pizza",
+                    "principal_ingredient": "Camarones/Shrimps"
+                },
+                "de_atun": {
+                    "price": 1500,
+                    "type": "pizza",
+                    "principal_ingredient": "Atún/Tuna"
+                },
+                "de_jamon": {
+                    "price": 1400,
+                    "type": "pizza",
+                    "principal_ingredient": "Jamón/Ham"
+                },
+                "de_aji": {
+                    "price": 1400,
+                    "type": "pizza",
+                    "principal_ingredient": "Aji/Chili"
+                },
+                "combinada": {
+                    "price": 1700,
+                    "type": "pizza",
+                    "principal_ingredient": "Combinada/Mixed"
+                },
+                "de_aceitunas": {
+                    "price": 1500,
+                    "type": "pizza",
+                    "principal_ingredient": "Aceitunas/Olives"
+                },
+                "de_langosta": {
+                    "price": 1900,
+                    "type": "pizza",
+                    "principal_ingredient": "Langosta/Lobster"
+                },
+                "hawaiana": {
+                    "price": 1500,
+                    "type": "pizza",
+                    "principal_ingredient": "Hawaiana/Hawaiian"
+                }
+            },
+            "platos_al_carbon": {
+                "carne_mechada_new_georges": {
+                    "price": 2900,
+                    "type": "CH",
+                    "principal_ingredient": "Filete de Cerdo"
+                },
+                "grillada_mixta": {
+                    "price": 7000,
+                    "type": "CH",
+                    "principal_ingredient": "Cerdo grille"
+                },
+                "mariscadas": {
+                    "price": 7000,
+                    "type": "CH",
+                    "principal_ingredient": "Langosta"
+                },
+                "chulacan": {
+                    "price": 7000,
+                    "type": "CH",
+                    "principal_ingredient": "Churrasco de Res"
+                },
+                "mar_y_tierra": {
+                    "price": 7000,
+                    "type": "CH",
+                    "principal_ingredient": "Mignon"
+                },
+                "brochetas_mar_y_tierra": {
+                    "price": 3000,
+                    "type": "CH",
+                    "principal_ingredient": "Pescado"
+                },
+                "ronada_de_res_a_la_parrilla": {
+                    "price": 3500,
+                    "type": "CH",
+                    "principal_ingredient": "Ronada de Res"
+                },
+                "filete_de_res_a_la_parrilla": {
+                    "price": 5550,
+                    "type": "CH",
+                    "principal_ingredient": "Filete de Res"
+                },
+                "bistec_de_res_a_lo_ramiro": {
+                    "price": 4850,
+                    "type": "CH",
+                    "principal_ingredient": "Jamón Viking"
+                },
+                "rinonada_de_cerdo": {
+                    "price": 2100,
+                    "type": "CH",
+                    "principal_ingredient": "Riñonada de Cerdo"
+                },
+                "rollitos_new_georges_dobles": {
+                    "price": 2000,
+                    "type": "CH",
+                    "principal_ingredient": "Rollitos New George's"
+                },
+                "pinchitos_a_lo_carlitos": {
+                    "price": 2300,
+                    "type": "CH",
+                    "principal_ingredient": "Pinchitos"
+                },
+                "carnes_al_pincho_surtidas": {
+                    "price": 2500,
+                    "type": "CH",
+                    "principal_ingredient": "Lomo Ahumado"
+                },
+                "bistec_de_cerdo_a_lo_ramiro_new_georges": {
+                    "price": 2550,
+                    "type": "CH",
+                    "principal_ingredient": "Lonja de Jamón"
+                }
+            },
+            "completas": {
+                "completa_1": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Res"
+                },
+                "completa_1a": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Res a la Parrilla"
+                },
+                "completa_2": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Res"
+                },
+                "completa_2a": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Res a la Parrilla"
+                },
+                "completa_3": {
+                    "price": 1900,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Cerdo"
+                },
+                "completa_4": {
+                    "price": 1900,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Cerdo"
+                },
+                "completa_5": {
+                    "price": 2000,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Cerdo Empanado"
+                },
+                "completa_6": {
+                    "price": 2000,
+                    "type": "completa",
+                    "principal_ingredient": "Bistec de Cerdo Empanado"
+                },
+                "completa_7": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Lomo Ahumado"
+                },
+                "completa_7a": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Lomo Ahumado a la Parrilla"
+                },
+                "completa_8": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Lomo Ahumado"
+                },
+                "completa_8a": {
+                    "price": 2300,
+                    "type": "completa",
+                    "principal_ingredient": "Lomo Ahumado a la Parrilla"
+                }
+            },
+            "postres": {
+                "flan_del_pibe": {
+                    "price": 500,
+                    "type": "dessert",
+                    "principal_ingredient": "Pibe's Baked Caramel Custard"
+                },
+                "copa_de_helado_1_bola": {
+                    "price": 250,
+                    "type": "dessert",
+                    "principal_ingredient": "Ice Cream Cup (1 bola/One scoop)"
+                },
+                "copa_de_helado_2_bolas": {
+                    "price": 500,
+                    "type": "dessert",
+                    "principal_ingredient": "Ice Cream Cup (2 bolas/Two scoops)"
+                },
+                "batido_de_frutas_naturales": {
+                    "price": 400,
+                    "type": "dessert",
+                    "principal_ingredient": "Fresh Fruit Shake"
+                },
+                "batido_de_helados": {
+                    "price": 1000,
+                    "type": "dessert",
+                    "principal_ingredient": "Ice Cream Milk Shake"
+                },
+                "brownie_con_helado": {
+                    "price": 1000,
+                    "type": "dessert",
+                    "principal_ingredient": "Brownie with Ice Cream"
+                },
+                "dulces_finos": {
+                    "price": 600,
+                    "type": "dessert",
+                    "principal_ingredient": "Fine Sweets"
+                },
+                "copa_lolita": {
+                    "price": 1000,
+                    "type": "dessert",
+                    "principal_ingredient": "Lolita Cup"
+                }
+            },
+            "infusiones": {
+                "te": {
+                    "price": 150,
+                    "type": "infusion",
+                    "principal_ingredient": "Tea"
+                },
+                "cafe_expresso": {
+                    "price": 180,
+                    "type": "infusion",
+                    "principal_ingredient": "Express Coffee"
+                },
+                "cafe_cortado": {
+                    "price": 200,
+                    "type": "infusion",
+                    "principal_ingredient": "Cup of Black Coffee with a Little Cream"
+                },
+                "cafe_nexpresso": {
+                    "price": 300,
+                    "type": "infusion",
+                    "principal_ingredient": "Nexpresso Coffee"
+                }
+            }
+        }
+    }
+}
